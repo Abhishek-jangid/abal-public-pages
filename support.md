@@ -4,7 +4,7 @@ title: Support - Abal
 
 # Support
 
-Need help with Abal, found a bug, or have an idea? Email **[abhishek29ashu@gmail.com](mailto:abhishek29ashu@gmail.com)**. Replies usually come within two working days.
+Need help with Abal, found a bug, or have an idea? Email **[abhishekk.j29@gmail.com](mailto:abhishekk.j29@gmail.com)**. Replies usually come within two working days.
 
 It helps to include your device model, your iOS version and what you were doing when the problem happened.
 
